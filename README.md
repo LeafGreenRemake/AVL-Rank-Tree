@@ -14,4 +14,4 @@ avl_reversed_rank(tnode, k), avl_median(t1, t2)
 
 
 note; the program also contains smaller helper-functions for these bigger operations.
-Also, make sure to use 
+Also, make sure to use avl.h as an header file. It includes the structure of this program's tree nodes.
