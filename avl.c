@@ -13,14 +13,6 @@ int abs( int x ){
     return (x < 0) ? -x : x;
 }
 
-// Fill your info here:
-/****
-  Student1 name: Shira Ozeri
-  Student2 name: Sharon Melter
-
-  Student1 ID: 328439781
-  Student2 ID: 327872347
-****/
 
 
 // Utilities
